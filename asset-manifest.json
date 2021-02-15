@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-advice-reactjs/static/css/main.d85ed0a7.chunk.css",
+    "main.js": "/praveenorugantitech-advice-reactjs/static/js/main.53a9d184.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-advice-reactjs/static/js/runtime-main.19013209.js",
+    "static/js/2.3c589283.chunk.js": "/praveenorugantitech-advice-reactjs/static/js/2.3c589283.chunk.js",
+    "index.html": "/praveenorugantitech-advice-reactjs/index.html",
+    "static/js/2.3c589283.chunk.js.LICENSE.txt": "/praveenorugantitech-advice-reactjs/static/js/2.3c589283.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/praveenorugantitech-advice-reactjs/static/media/city.91c2d56f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19013209.js",
+    "static/js/2.3c589283.chunk.js",
+    "static/css/main.d85ed0a7.chunk.css",
+    "static/js/main.53a9d184.chunk.js"
+  ]
+}
