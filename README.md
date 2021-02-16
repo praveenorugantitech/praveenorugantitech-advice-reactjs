@@ -1,4 +1,4 @@
-### Advice App developed using React JS and Adviceslip API
+# Advice App developed using React JS and Adviceslip API
 
 ### API
 
